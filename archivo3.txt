@@ -1,0 +1,3 @@
+Este es el nuevo archivo que se guarda en la rama 
+llamada rama 2
+y contiene muchas cosas
